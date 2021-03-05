@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleSheet,  View } from "react-native";
-import Open from "./Screens/open";
+import Open from "./Screens/sign";
 
 export default class App extends React.Component {
   render() {
